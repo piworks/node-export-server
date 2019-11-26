@@ -16,7 +16,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org"
+    "registry": "http://npm.piworks.net/"
   },
   "main": "lib/index.js",
   "license": "MIT",
