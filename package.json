@@ -5,7 +5,7 @@
     "url": "https://github.com/highcharts/node-export-server",
     "type": "git"
   },
-  "version": "2.0.28",
+  "version": "2.0.29",
   "bin": {
     "highcharts-export-server": "./bin/cli.js"
   },
@@ -23,7 +23,7 @@
   "dependencies": {
     "async": "2.1.4",
     "body-parser": "1.16.0",
-    "colors": "*",
+    "colors": "1.4.0",
     "cors": "2.8.1",
     "express": "4.16.0",
     "express-form-data": "2.0.0",
