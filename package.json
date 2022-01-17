@@ -2,10 +2,10 @@
   "name": "@piworks/highcharts-export-server",
   "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
   "repository": {
-    "url": "https://github.com/highcharts/node-export-server",
+    "url": "https://github.com/piworks/node-export-server",
     "type": "git"
   },
-  "version": "2.0.29",
+  "version": "2.0.30",
   "bin": {
     "highcharts-export-server": "./bin/cli.js"
   },
@@ -16,7 +16,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "http://npm.piworks.net/"
+    "registry": "https://npm.piworks.net/"
   },
   "main": "lib/index.js",
   "license": "MIT",
